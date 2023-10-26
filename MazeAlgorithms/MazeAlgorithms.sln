@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BinaryTree", "BinaryTree\BinaryTree.pyproj", "{CAD33A45-2880-4649-9E46-58C88D14A772}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AldousBroder", "AldousBroder\AldousBroder.pyproj", "{B189A4DC-B08F-4AE8-960A-D8722520A47F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{72BC5A1D-2DE2-42A6-ACED-36D183C8EE17}"
+	ProjectSection(SolutionItems) = preProject
+		Common\cell.py = Common\cell.py
+		Common\maze.py = Common\maze.py
+		Common\maze_drawer.py = Common\maze_drawer.py
+	EndProjectSection
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HuntAndKill", "HuntAndKill\HuntAndKill.pyproj", "{956F5B4D-B8C7-4623-8D5D-EEA8C0C9E784}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAD33A45-2880-4649-9E46-58C88D14A772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD33A45-2880-4649-9E46-58C88D14A772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B189A4DC-B08F-4AE8-960A-D8722520A47F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B189A4DC-B08F-4AE8-960A-D8722520A47F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{956F5B4D-B8C7-4623-8D5D-EEA8C0C9E784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{956F5B4D-B8C7-4623-8D5D-EEA8C0C9E784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25EEA2F8-D62E-4E0F-8967-217FC02267A3}
+	EndGlobalSection
+EndGlobal
