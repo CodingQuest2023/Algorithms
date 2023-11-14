@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34009.444
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "WaveFunctionCollapse", "WaveFunctionCollapse\WaveFunctionCollapse.pyproj", "{7C34C41B-6BF2-474B-9D23-25C171CCB6BB}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PerlinNoise", "PerlinNoise\PerlinNoise.pyproj", "{D19D42CD-80F8-4D61-8D9A-5DCB3746DDC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{7C34C41B-6BF2-474B-9D23-25C171CCB6BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7C34C41B-6BF2-474B-9D23-25C171CCB6BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D19D42CD-80F8-4D61-8D9A-5DCB3746DDC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D19D42CD-80F8-4D61-8D9A-5DCB3746DDC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
